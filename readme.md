@@ -1,5 +1,5 @@
-![output](https://raw.githubusercontent.com/milkisa/cat_va_dog-using-pytorch-and-tensorflow/main/images/Figure_2.png)
-![output](https://raw.githubusercontent.com/milkisa/cat_va_dog-using-pytorch-and-tensorflow/main/images/Figure_1.png)
+![output](https://github.com/milkisa/tensorflow-and-pytorch-basic-codes-linear-regression-and-classification-on-mnist-datasets-/blob/main/image/Figure_1.png)
+![output](https://github.com/milkisa/tensorflow-and-pytorch-basic-codes-linear-regression-and-classification-on-mnist-datasets-/blob/main/image/Figure_2.png)
 
 
 # pytorch and tensorflow basics(linear regression and MNIST image classification)
