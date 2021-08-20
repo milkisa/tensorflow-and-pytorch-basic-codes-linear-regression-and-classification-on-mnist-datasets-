@@ -1,5 +1,5 @@
 ![output](https://github.com/milkisa/tensorflow-and-pytorch-basic-codes-linear-regression-and-classification-on-mnist-datasets-/blob/main/image/Figure_1.png)
-![output](https://github.com/milkisa/tensorflow-and-pytorch-basic-codes-linear-regression-and-classification-on-mnist-datasets-/blob/main/image/Figure_2.png)
+
 
 
 # pytorch and tensorflow basics(linear regression and MNIST image classification)
